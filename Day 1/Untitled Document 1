@@ -1,0 +1,28 @@
+### What is your understanding of Blockchain?
+
+**Answer**: A Blockchain is a type of diary or spreadsheet containing information about transactions. Each transaction generates a hash. ... Each block refers to the previous block and together make the Blockchain. A Blockchain is effective as it is spread over many computers, each of which have a copy of the Blockchain.
+
+### What is the core problem Blockchain trying to solve?
+
+**Answer**: * Currency and Transaction Support
+	    * Supply Chains and Item Histories
+	    * Voting
+	    * Government Operations
+	    * Intellectual Property
+
+### What are the few features which Blockchain will give you?
+
+**Answer**: * Increased Capacity
+            * Better Security
+	    * Immutability
+	    * Faster Settlement
+ 	    * Decentralized System
+ 	    * Minting
+
+### What all things does a Block contain?
+
+**Answer**: Each block contains, among other things, the current time, a record of some or all recent transactions, and a reference to the block that came immediately before it. It also contains an answer to a difficult-to-solve mathematical puzzle - the answer to which is unique to each block.
+
+### How is the verifiability of Blockchain has been attained?
+
+**Answer**: Blockchain have the whole community in which everyone is working at the same time on the same data. So when anyone change anything in a data then all the other members of this community will tell that person to correct the mistakes in his/her data and all the other members of this community have same signature than this one member.
